@@ -1,5 +1,5 @@
-var x = String;
-var create = function () {
+const x = String;
+const create = function() {
     return {
         isColorSupported: false,
         reset: x,
@@ -26,8 +26,8 @@ var create = function () {
         bgBlue: x,
         bgMagenta: x,
         bgCyan: x,
-        bgWhite: x
-    }
+        bgWhite: x,
+    };
 };
 
 module.exports = create();

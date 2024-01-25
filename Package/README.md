@@ -34,7 +34,7 @@ The library provides additional utilities to ensure the best results for the tas
 
 - `isColorSupported` - boolean, explicitly tells whether or not the colors or formatting appear on the screen.
 
-    ```js
+    ```mjs
     if (cf.isColorSupported) {
         console.log("Yay! This script can use colors and formatters")
     }
@@ -42,7 +42,7 @@ The library provides additional utilities to ensure the best results for the tas
 
 - `createColors(enabled)` - a function that returns a new API object with manually defined color support configuration.
 
-    ```js
+    ```mjs
     let { red, bgWhite } = cf.createColors(options.enableColors)
     ```
 
