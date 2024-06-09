@@ -48,6 +48,6 @@ The library provides additional utilities to ensure the best results for the tas
 
 ## Links
 
-Full repository on [github](https://github.com/FJrodafo/npm-colors)/[gitlab](https://gitlab.com/FJrodafo/npm-colors).
+Full repository on [github](https://github.com/FJrodafo/colors)/[gitlab](https://gitlab.com/FJrodafo/colors).
 
 Visit the npm package website [here](https://www.npmjs.com/package/@fjrodafo/colors).

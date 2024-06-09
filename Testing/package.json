@@ -1,5 +1,9 @@
 {
+  "scripts": {
+    "start": "node index.mjs",
+    "test": "node benchmarks/loading.js && node benchmarks/size.js"
+  },
   "dependencies": {
-    "@fjrodafo/colors": "^0.0.4"
+    "@fjrodafo/colors": "^0.0.5"
   }
 }

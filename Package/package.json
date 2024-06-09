@@ -1,6 +1,6 @@
 {
   "name": "@fjrodafo/colors",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Fast and minimalist library for terminal output formatting with ANSI colors!",
   "main": "colors.js",
   "types": "colors.d.ts",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FJrodafo/npm-colors.git"
+    "url": "git+https://github.com/FJrodafo/colors.git"
   },
   "keywords": [
     "fast",
@@ -37,7 +37,7 @@
   "author": "FJrodafo - Francisco José Rodríguez Afonso",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FJrodafo/npm-colors/issues"
+    "url": "https://github.com/FJrodafo/colors/issues"
   },
-  "homepage": "https://github.com/FJrodafo/npm-colors#readme"
+  "homepage": "https://github.com/FJrodafo/colors#readme"
 }
