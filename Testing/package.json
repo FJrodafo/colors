@@ -4,6 +4,6 @@
     "test": "node benchmarks/loading.js && node benchmarks/size.js"
   },
   "dependencies": {
-    "@fjrodafo/colors": "^0.0.5"
+    "@fjrodafo/colors": "^0.0.6"
   }
 }
